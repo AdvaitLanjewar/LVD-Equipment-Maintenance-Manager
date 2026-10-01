@@ -1,0 +1,6 @@
+@LVDMaintenanceManager_HostAddress = http://localhost:5211
+
+GET {{LVDMaintenanceManager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
